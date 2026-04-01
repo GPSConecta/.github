@@ -66,8 +66,8 @@ Detalhes:
 > Preencha estes valores também no item do Project.
 
 **Status:** Todo  
-**Priority:** Medium  
-**Size:** M  
+**Prioridade:** Medium  
+**Tamanho:** M  
 **Sprint:** A definir  
 
 ---
